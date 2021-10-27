@@ -2,7 +2,7 @@
 
 **Exercise Goal**: to know the basics of message passing
 
-In this exercise we will develop a browser extension that send an opened tab in a standby mode. We will also use a `canvas`, so we can do it visually as appealing as it needs to be.
+In this exercise we will develop a browser extension that send an opened tab in a standby mode :sleeping: . We will also use a `canvas`, so we can do it visually as appealing as it needs to be.
 
 ### Resources:
 
