@@ -7,7 +7,8 @@ In this exercise we will develop a browser extension that send an opened tab in 
 ### Resources:
 
 - Chrome Extenstion v2: [Getting started](https://developer.chrome.com/docs/extensions/mv2/getstarted/)
-- Samples Extensions: [Examples](https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/mv2-archive/extensions)
+- Sample Extensions: [Examples](https://github.com/GoogleChrome/chrome-extensions-samples/tree/main/mv2-archive/extensions)
+- Extenstions WebSore: [Extenstions](https://chrome.google.com/webstore/category/extensions) 
 
 
 ## Experiment 1. 
