@@ -12,8 +12,8 @@ In this exercise we will develop a browser extension that send an opened tab in 
 
 
 ## Experiment 1. 
-Run some animation in stand by mode.
+Run some animation :movie_camera; in standby :bath:  mode.
 
 ## Experiment 2. 
-Add a Button to cancel stadby mode.
+Add a Button :checkered_flag: to cancel standby :bath: mode.
 
